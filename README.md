@@ -4,7 +4,7 @@
 A microservices-demo service that provides shopping carts for users.
 
 This build is built, tested and released by travis.
-# Test check for poll SCM , updated one 
+# Updated comment for ppeline Test check for poll SCM , updated one 
 # API Spec
 
 Checkout the API Spec [here](http://microservices-demo.github.io/api/index?url=https://raw.githubusercontent.com/microservices-demo/carts/master/api-spec/cart.json)
